@@ -40,7 +40,7 @@
     <?php
     error_reporting(E_ALL);
     ini_set("display_errors", 1);
-    print_r($_REQUEST);
+    //print_r($_REQUEST);
         include '../lib/common.php';
         if (User::isLoggedIn())
             Link::redirect('dashboard');

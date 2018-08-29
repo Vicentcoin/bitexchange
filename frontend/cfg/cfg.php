@@ -7,18 +7,11 @@ if ($_SERVER['SERVER_NAME'] == 'localhost') {
 	$CFG->auth_login_url = $base_url.'auth/htdocs/login.php';
 	$CFG->auth_verify_token_url = $base_url.'auth/htdocs/verify_token.php';
 } else {
-	$base_url = "http://18.222.189.225/";
-$CFG->api_url = 'http://18.222.189.225/api/htdocs/api.php';
-$CFG->auth_login_url = 'http://18.222.189.225/auth/htdocs/login.php';
-$CFG->auth_verify_token_url = 'http://18.222.189.225/auth/htdocs/verify_token.php';
+	$base_url = "http://tradlr.com/bitexchange//";
+$CFG->api_url = 'http://tradlr.com/bitexchange//api/htdocs/api.php';
+$CFG->auth_login_url = 'http://tradlr.com/bitexchange/auth/htdocs/login.php';
+$CFG->auth_verify_token_url = 'http://tradlr.com/bitexchange/auth/htdocs/verify_token.php';
 }
-
-/*******************/
-$base_url = "http://localhost/bitexchange/";
-$CFG->api_url = $base_url.'api/htdocs/api.php';
-$CFG->auth_login_url = $base_url.'auth/htdocs/login.php';
-$CFG->auth_verify_token_url = $base_url.'auth/htdocs/verify_token.php';
-/***********/
 
 
 $CFG->google_recaptch_api_key="6LeDOG0UAAAAAKMJsFJ68ZoghgvTQHV-jOaBa55E";
