@@ -1,0 +1,104 @@
+.navbar.navbar-expand-lg.header-bg {
+    background: #000000;
+}
+header {
+    position: relative;
+    background: #000000;
+    /* fallback for old browsers */
+    background: -webkit-linear-gradient(to top, #000000, #434343);
+    /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to top, #000000, #434343);
+    /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+}
+.banner .input-group button {
+    background-color: #434343;
+}
+.banner .input-group button:focus,
+.banner .input-group button:hover,
+.banner .input-group button:focus,
+.banner .input-group button:active {
+    background-color: #000000;
+}
+
+.btn-blue {
+    background-color: #434343;
+}
+
+.btn-blue:hover,
+.btn-blue:focus,
+.btn-blue:active {
+    background-color: #000000;
+}
+
+.counter-widget {
+    background: #434343;
+    /* fallback for old browsers */
+    background: -webkit-linear-gradient(to top, #000000, #434343);
+    /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to top, #000000, #434343);
+    /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+}
+
+
+footer {
+    background: #434343;
+    /* fallback for old browsers */
+    background: -webkit-linear-gradient(to top, #000000, #434343);
+    /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to top, #000000, #434343);
+    /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+}
+.register-card .left{
+    background: #000000;
+    /* fallback for old browsers */
+    background: -webkit-linear-gradient(to top, #000000, #434343);
+    /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to top, #000000, #434343);
+    /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+}
+.register-card .btn-blue {
+    background-color: #434343;
+}
+
+.register-card .btn-blue:hover,
+.register-card .btn-blue:active,
+.register-card .btn-blue:focus {
+    background-color: #000000;
+}
+
+.register-card .note a {
+    color: #434343;
+}
+.account-card .nav{
+    background: #000000;
+    /* fallback for old browsers */
+    background: -webkit-linear-gradient(to top, #000000, #434343);
+    /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to top, #000000, #434343);
+    /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+}
+.account-card .nav-pills .nav-link.active,.account-card .nav-pills .show>.nav-link, .account-card .nav-pills .nav-link:hover, .account-card .nav-pills .nav-link:focus{
+    color: #000000;
+}
+.navbar-expand-lg .navbar-nav .dropdown-menu{
+    background-color: #000000;
+}
+.balance-table td a.outline-btn {
+    border: 1px solid #434343;
+    background-color: #434343;
+}
+.refer ul.social li a {
+    color: #434343;
+}
+
+.refer ul.social li a:hover,
+.refer ul.social li a:focus,
+.refer ul.social li a:active {
+    color: #000000;
+}
+
+@media (max-width: 991.98px) {
+    .navbar-expand-lg .navbar-nav{
+        background: #000000;
+    }
+}

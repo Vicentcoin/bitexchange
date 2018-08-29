@@ -1,0 +1,104 @@
+.navbar.navbar-expand-lg.header-bg {
+    background: #021B79;
+}
+header {
+    position: relative;
+    background: #021B79;
+    /* fallback for old browsers */
+    background: -webkit-linear-gradient(to top, #021B79, #0575E6);
+    /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to top, #021B79, #0575E6);
+    /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+}
+.banner .input-group button {
+    background-color: #0575E6;
+}
+.banner .input-group button:focus,
+.banner .input-group button:hover,
+.banner .input-group button:focus,
+.banner .input-group button:active {
+    background-color: #021B79;
+}
+
+.btn-blue {
+    background-color: #0575E6;
+}
+
+.btn-blue:hover,
+.btn-blue:focus,
+.btn-blue:active {
+    background-color: #021B79;
+}
+
+.counter-widget {
+    background: #0575E6;
+    /* fallback for old browsers */
+    background: -webkit-linear-gradient(to top, #021B79, #0575E6);
+    /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to top, #021B79, #0575E6);
+    /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+}
+
+
+footer {
+    background: #0575E6;
+    /* fallback for old browsers */
+    background: -webkit-linear-gradient(to top, #021B79, #0575E6);
+    /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to top, #021B79, #0575E6);
+    /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+}
+.register-card .left{
+    background: #021B79;
+    /* fallback for old browsers */
+    background: -webkit-linear-gradient(to top, #021B79, #0575E6);
+    /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to top, #021B79, #0575E6);
+    /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+}
+.register-card .btn-blue {
+    background-color: #0575E6;
+}
+
+.register-card .btn-blue:hover,
+.register-card .btn-blue:active,
+.register-card .btn-blue:focus {
+    background-color: #021B79;
+}
+
+.register-card .note a {
+    color: #0575E6;
+}
+.account-card .nav{
+    background: #021B79;
+    /* fallback for old browsers */
+    background: -webkit-linear-gradient(to top, #021B79, #0575E6);
+    /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to top, #021B79, #0575E6);
+    /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+}
+.account-card .nav-pills .nav-link.active,.account-card .nav-pills .show>.nav-link, .account-card .nav-pills .nav-link:hover, .account-card .nav-pills .nav-link:focus{
+    color: #021B79;
+}
+.navbar-expand-lg .navbar-nav .dropdown-menu{
+    background-color: #021B79;
+}
+.balance-table td a.outline-btn {
+    border: 1px solid #0575E6;
+    background-color: #0575E6;
+}
+.refer ul.social li a {
+    color: #0575E6;
+}
+
+.refer ul.social li a:hover,
+.refer ul.social li a:focus,
+.refer ul.social li a:active {
+    color: #021B79;
+}
+
+@media (max-width: 991.98px) {
+    .navbar-expand-lg .navbar-nav{
+        background: #021B79;
+    }
+}
